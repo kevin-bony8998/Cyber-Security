@@ -1,0 +1,4 @@
+This folder contains a Python3.x implementation of a network scanner. The program works by sending ARP packets to all IP addresses within the network. If an ARP reply 
+is received, the devices IP address and MAC address is recorded. If no ARP reply has been received, the IP address is ignored. Kindly note that the program takes a 
+considerable amount of time. This makes the program extremely disadvantageous when compared to readily available network scanners (eg:nmap). Furthermore, applications 
+like "zenmap" can even show the user the make and model of the devices connected to the internet. This cannot be achieved by the given implementation.
