@@ -1,0 +1,4 @@
+This folder contains a Python3.x implementation of an ARP spoofer. An ARP Spoofer is a program that works to corrupt the ARP table. This is generally done as a first 
+step in a MITM (Man-In-The-Middle) attack. The program continually updates the target's MAC address as the hacker's address in the routers ARP table and updates the
+routers MAC address as the hacker's MAC address in the targets ARP table. Thus, the hacker becomes the middle man in the network and all packets pass through the 
+hacker's computer. 
