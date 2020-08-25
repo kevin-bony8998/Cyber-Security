@@ -1,2 +1,2 @@
-This folder contains a python implementation of a MAC address changer. Kindly note that since the MAC address of a device is unique and permanent to the device, The 
+This folder contains a Python3.x implementation of a MAC address changer. Kindly note that since the MAC address of a device is unique and permanent to the device, The 
 program only changes the MAC address TEMPORARILY. On shutting the system down, the MAC address will be reset to the default value. 
