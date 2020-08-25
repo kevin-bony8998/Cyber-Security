@@ -1,0 +1,3 @@
+This folder contains a Python3.x program implementation of a net-cutter program. The program can be executed only AFTER the attacker has successfully become the MITM (Man
+In The Middle). The program works by dropping all packets it receives from the target (actually intended for the router). Thus, the target, although connected to the 
+internet, will be unable to access the internet. 
